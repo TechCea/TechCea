@@ -50,7 +50,18 @@ I write about things I am familiar with, things that trip up folks that I mentor
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=thenuka99&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
 	<a href="https://github.com/thenuka99?tab=followers"><img src="https://img.shields.io/github/followers/thenuka99?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br><br><br>
+
+ <div style="text-align: center;">
+  <p><i>If you appreciate what I do and wish to support my work,</i></p>
+	 <p><i> you can consider buying me a coffee ☕</i></p>
+  <a href="https://www.buymeacoffee.com/tahanima" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" 
+         style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; 
+         -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; display: block; margin: 0 auto;">
+  </a>
+</div>
+
+<br>
 
 ## Technologies currently using
 <br>
@@ -80,5 +91,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=TechCea&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </div>
+
 
 
