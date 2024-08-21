@@ -1,20 +1,42 @@
 [![MastHead](https://github.com/TechCea/Portfolio-V3/blob/main/img/Github.jpg?raw=true)]()
+<p align='center'>
+<a href="https://techcea.github.io/Portfolio-V3/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/Picture0.1-dark.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:jav.alarconcea@gmail.com"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/gmail.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/javier_cea.30/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/linkedin.png?raw=true"></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm TechCea</h1></summary>
-  </ul>
-</div>
+I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
 
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer;System+Egineer+Student;Love+to+learn+new+stuffs..<3"></a>
+  ---
+ 
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
 </p>
+ 
+### Boy Scout Rule
+
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
+ ---
+
+<p>
+  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+</p>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+
+<br>
+<br>
 
 <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
