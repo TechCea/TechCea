@@ -73,4 +73,11 @@ I write about things I am familiar with, things that trip up folks that I mentor
  
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechCea&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCea&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
+
+
+
 📱 Contact
