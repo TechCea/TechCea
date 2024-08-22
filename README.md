@@ -40,7 +40,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
-> I am a hardworking individual who is dedicated towards his goals.
+> I’m always eager to learn and grow. Whether it's exploring new frameworks or enhancing my design skills, I'm committed to continuous improvement.
 <br />
 
 - 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
