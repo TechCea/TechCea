@@ -16,16 +16,14 @@ Me llamo **Carlos Javier Cea**, pero mis amigos me llaman **Javi**. Entré en es
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/TechCea/Portfolio-V3/blob/main/img/Picture0-dark.png?raw=true">
+  <img width="200" align='left' src="https://github.com/TechCea/Portfolio-V3/blob/main/img/Picture0-dark.png?raw=true">
 </p>
  
 ### Portfolio Web
 
-Tengo una pasión por aprender y compartir mis conocimientos con la comunidad, y continuamente busco formas de mejorar y crecer en este campo. Continuamente busco formas de mejorar y crecer en este campo. Trabajo con amor y dedicación, y si deseas conocer más, puedes visitar mi [portafolio](https://techcea.github.io/Portfolio-V3/). Donde también podrás saber un poco más sobre quién soy y explorar los proyectos en los que he trabajado.
+Tengo una pasión por aprender y compartir mis conocimientos con la comunidad, continuamente busco formas de mejorar y crecer en este campo. Trabajo con amor y dedicación,Creo que la clave para crecer como desarrollador es nunca dejar de aprender, siempre estar abierto a nuevas ideas, y buscar cómo aplicarlas en proyectos reales. Si deseas conocer más, puedes visitar mi [portafolio](https://techcea.github.io/Portfolio-V3/). Donde también podrás saber un poco más sobre quién soy y explorar los proyectos en los que he trabajado.
 
  ---
-
-
 
 ### My Digital Garden 🌱
 
