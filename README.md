@@ -10,30 +10,26 @@
 
 Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+Me llamo **Carlos Javier Cea**, pero mis amigos me llaman **Javi**. Entré en este dinámico campo de forma inesperada, pero pronto descubrí una profunda satisfacción en la creación de interfaces, sitios web y experiencias digitales interactivas. Estoy comprometido con mi desarrollo como futuro desarrollador Front-end y busco oportunidades que me permitan seguir aprendiendo y contribuyendo de manera significativa en la creación de soluciones digitales innovadoras.
 
 
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://github.com/TechCea/Portfolio-V3/blob/main/img/Picture0-dark.png?raw=true">
 </p>
  
-### Boy Scout Rule
+### Portfolio Web
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+Tengo una pasión por aprender y compartir mis conocimientos con la comunidad, y continuamente busco formas de mejorar y crecer en este campo. Continuamente busco formas de mejorar y crecer en este campo. Trabajo con amor y dedicación, y si deseas conocer más, puedes visitar mi [portafolio](https://techcea.github.io/Portfolio-V3/). Donde también podrás saber un poco más sobre quién soy y explorar los proyectos en los que he trabajado.
 
  ---
 
-<p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p>
+
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+Además, tengo una profunda pasión por la música, lo que refleja mi capacidad para concentrarme y encontrar inspiración en diferentes formas. Me considero un aprendiz ágil, con la habilidad de seguir procedimientos detallados con precisión. Soy altamente dedicado en todo lo que hago, y valoro las lecciones que se obtienen al aprender de los errores, lo que me permite mejorar constantemente.
 
 <br>
 <br>
