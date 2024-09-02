@@ -25,7 +25,7 @@ Tengo una pasión por aprender y compartir mis conocimientos con la comunidad, c
 
  ---
 
-### About me🌱
+### About me 🌱
 
 Además, tengo una profunda pasión por la música, lo que refleja mi capacidad para concentrarme y encontrar inspiración en diferentes formas. Me considero un aprendiz ágil, con la habilidad de seguir procedimientos detallados con precisión. Soy altamente dedicado en todo lo que hago, y valoro las lecciones que se obtienen al aprender de los errores, lo que me permite mejorar constantemente.
 
