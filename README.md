@@ -25,7 +25,7 @@ Tengo una pasión por aprender y compartir mis conocimientos con la comunidad, c
 
  ---
 
-### My Digital Garden 🌱
+### About me🌱
 
 Además, tengo una profunda pasión por la música, lo que refleja mi capacidad para concentrarme y encontrar inspiración en diferentes formas. Me considero un aprendiz ágil, con la habilidad de seguir procedimientos detallados con precisión. Soy altamente dedicado en todo lo que hago, y valoro las lecciones que se obtienen al aprender de los errores, lo que me permite mejorar constantemente.
 
@@ -37,7 +37,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 > I’m always eager to learn and grow. Whether it's exploring new frameworks or enhancing my design skills, I'm committed to continuous improvement.
 <br />
 
-- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
+- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at Unicaes University 
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - 📫 How to reach me **jav.alarconcea@gnail.com**
 - 📝 I studied at Ananda College 
