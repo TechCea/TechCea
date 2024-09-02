@@ -39,7 +39,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 
 - 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at University of Moratuwa
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **janithherath2@gmail.com**
+- 📫 How to reach me **jav.alarconcea@gnail.com**
 - 📝 I studied at Ananda College 
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=TechCea&label=Profile%20views&color=brightgreen&style=plastic" alt="TechCea's profile views" /> 
