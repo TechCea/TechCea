@@ -1,9 +1,9 @@
 [![MastHead](https://github.com/TechCea/Portfolio-V3/blob/main/img/Github.jpg?raw=true)]()
 <p align='center'>
-<a href="https://techcea.github.io/Portfolio-V3/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/Picture0.1-dark.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:jav.alarconcea@gmail.com"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/gmail.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/javier_cea.30/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/linkedin.png?raw=true"></a>
+<a href="https://techcea.github.io/Portfolio-V3/"  target="_blank"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/Picture0.1-dark.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:jav.alarconcea@gmail.com"  target="_blank"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/gmail.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/javier_cea.30/" target="_blank"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/" target="_blank"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/linkedin.png?raw=true"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -38,7 +38,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 <br />
 
 - 🌱 &nbsp;I'm currently studying Computer System Engineer at Unicaes University 
-- :computer: &nbsp;Connect with me on **[<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/">Linkedin</a>]**
+- :computer: &nbsp;Connect with me on **[<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/"  target="_blank">Linkedin</a>]**
 - 📫 How to reach me **jav.alarconcea@gnail.com**
 - 📝 I studied at Unicaes University
 - 💬 Ask me about: anything, I am happy to help
