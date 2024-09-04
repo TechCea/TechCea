@@ -37,10 +37,10 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 > I’m always eager to learn and grow. Whether it's exploring new frameworks or enhancing my design skills, I'm committed to continuous improvement.
 <br />
 
-- 🌱 &nbsp;I'm currently studying for Bsc. (Hons.) in IT at Unicaes University 
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- 🌱 &nbsp;I'm currently studying Computer System Engineer at Unicaes University 
+- :computer: &nbsp;Connect with me on **[<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/">Linkedin</a>]**
 - 📫 How to reach me **jav.alarconcea@gnail.com**
-- 📝 I studied at Ananda College 
+- 📝 I studied at Unicaes University
 - 💬 Ask me about: anything, I am happy to help
 - 	<img src="https://komarev.com/ghpvc/?username=TechCea&label=Profile%20views&color=brightgreen&style=plastic" alt="TechCea's profile views" /> 
 	<a href="https://github.com/TechCea?tab=followers"><img src="https://img.shields.io/github/followers/TechCea?label=Followers&style=social" alt="GitHub Badge"></a>
