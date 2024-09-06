@@ -2,8 +2,8 @@
 <p align='center'>
 <a href="https://techcea.github.io/Portfolio-V3/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/Picture0.1-dark.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:jav.alarconcea@gmail.com"  "><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/gmail.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/javier_cea.30/" target="_blank"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/" target="_blank"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/linkedin.png?raw=true"></a>
+<a href="https://www.instagram.com/javier_cea.30/"><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/" ><img height="30" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/icons/linkedin.png?raw=true"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
