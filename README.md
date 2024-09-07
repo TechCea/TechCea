@@ -32,7 +32,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 <br>
 <br>
 
-<img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+<img align="right" height="270px" alt="guy" width="350" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/poke.gif?raw=true" /> </a>
 
 > I’m always eager to learn and grow. Whether it's exploring new frameworks or enhancing my design skills, I'm committed to continuous improvement.
 <br />
