@@ -21,7 +21,7 @@ Me llamo **Carlos Javier Cea**, pero mis amigos me llaman **Javi**. Entré en es
  
 ### Portfolio Web
 
-Tengo una pasión por aprender y compartir mis conocimientos con la comunidad, continuamente busco formas de mejorar y crecer en este campo. Trabajo con amor y dedicación,Creo que la clave para crecer como desarrollador es nunca dejar de aprender, siempre estar abierto a nuevas ideas, y buscar cómo aplicarlas en proyectos reales. Si deseas conocer más, puedes visitar mi [portafolio](https://techcea.github.io/Portfolio-V3/). Donde también podrás saber un poco más sobre quién soy y explorar los proyectos en los que he trabajado.
+Tengo una pasión por aprender y compartir mis conocimientos con la comunidad, continuamente busco formas de mejorar y crecer en este campo. Trabajo con amor y dedicación,Creo que la clave para crecer como desarrollador es nunca dejar de aprender, siempre estar abierto a nuevas ideas, y buscar cómo aplicarlas en proyectos reales. Si deseas conocer más, puedes visitar mi [Portafolio](https://techcea.github.io/Portfolio-V3/). Donde también podrás saber un poco más sobre quién soy y explorar los proyectos en los que he trabajado.
 
  ---
 
