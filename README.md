@@ -32,16 +32,17 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 <br>
 <br>
 
-<img align="right" height="270px" alt="guy" width="350" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/poke.gif?raw=true" /> </a>
+<img align="right" height="270px" alt="guy" width="350" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/pokemonTech.gif?raw=true" /> </a>
 
-> I’m always eager to learn and grow. Whether it's exploring new frameworks or enhancing my design skills, I'm committed to continuous improvement.
+> Siempre estoy dispuesto a aprender y crecer. Ya sea explorando nuevos frameworks o mejorando mis habilidades de diseño, estoy comprometido con el avance constante.
 <br />
 
-- 🌱 &nbsp;I'm currently studying Computer System Engineer at Unicaes University 
-- :computer: &nbsp;Connect with me on **[<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/"  target="_blank">Linkedin</a>]**
-- 📫 How to reach me **jav.alarconcea@gnail.com**
-- 📝 I studied at Unicaes University
-- 💬 Ask me about: anything, I am happy to help
+- 🌱 &nbsp; Actualmente estudio Ingeniería en Sistemas Informáticos
+  en la Universidad Católica de El Salvador (Unicaes). 
+- :computer: &nbsp;Conéctate conmigo en **[<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/"  target="_blank">Linkedin</a>]**
+- 📫 Puedes contactarme en **jav.alarconcea@gnail.com**
+- 🔍 Siempre en busca de nuevas oportunidades para aprender y mejorar.
+- 💬 Pregúntame lo que quieras, estaré encantado de ayudar.
 - 	<img src="https://komarev.com/ghpvc/?username=TechCea&label=Profile%20views&color=brightgreen&style=plastic" alt="TechCea's profile views" /> 
 	<a href="https://github.com/TechCea?tab=followers"><img src="https://img.shields.io/github/followers/TechCea?label=Followers&style=social" alt="GitHub Badge"></a>
 
