@@ -48,6 +48,10 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 
 <br>
 
+> 🌟 **No te cierres a una sola cosa en tu vida** 🌟  
+> ✨ _Puede parecer que tu destino es obvio, pero tú puedes demostrarte a ti mismo que eres más que eso._ ✨
+
+
 ## Technologies currently using
 <br>
 <div>
