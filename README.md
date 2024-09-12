@@ -39,7 +39,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 
 - 🌱 &nbsp; Actualmente estudio Ingeniería en Sistemas Informáticos<br>
   en la Universidad Católica de El Salvador (Unicaes). 
-- :computer: &nbsp;Conéctate conmigo en **[<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/"  target="_blank">Linkedin</a>]**
+- :computer: &nbsp;Conéctate conmigo en **[<a href="https://www.linkedin.com/in/carlos-javier-alarcon-cea-004019303/>Linkedin</a>]**
 - 📫 Puedes contactarme en **jav.alarconcea@gnail.com**
 - 🔍 Siempre en busca de nuevas oportunidades para aprender y mejorar.
 - 💬 Pregúntame lo que quieras, estaré encantado de ayudar.
