@@ -10,7 +10,7 @@
 
 Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 
-Me llamo **Carlos Javier Cea**, pero mis amigos me llaman **Javi**. Entré en este dinámico campo de forma inesperada, pero pronto descubrí una profunda satisfacción en la creación de interfaces, sitios web y experiencias digitales interactivas. Estoy comprometido con mi desarrollo como futuro desarrollador Front-end y busco oportunidades que me permitan seguir aprendiendo y contribuyendo de manera significativa en la creación de soluciones digitales innovadoras.
+Me llao **Carlos Javier Cea**, pero mis amigos me llaman **Javi**. Entré en este dinámico campo de forma inesperada, pero pronto descubrí una profunda satisfacción en la creación de interfaces, sitios web y experiencias digitales interactivas. Estoy comprometido con mi desarrollo como futuro desarrollador Front-end y busco oportunidades que me permitan seguir aprendiendo y contribuyendo de manera significativa en la creación de soluciones digitales innovadoras.
 
 
   ---
