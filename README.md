@@ -52,7 +52,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 > ✨ _Puede parecer que tu destino es obvio, pero tú puedes demostrarte a ti mismo que eres más que eso._ ✨
 
 
-## Technologies currently using
+## Tecnologías que utilizo actualmente
 <br>
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
