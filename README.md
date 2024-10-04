@@ -73,7 +73,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
  
 </div>
 
-## My Github Stats
+## Mis estadísticas en Github
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechCea&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
