@@ -35,7 +35,7 @@ Además, tengo una profunda pasión por la música, lo que refleja mi capacidad 
 <img align="right" height="270px" alt="guy" width="350" src="https://github.com/TechCea/Portfolio-V3/blob/main/img/pokemonTech.gif?raw=true" /> </a>
 
 > Siempre estoy dispuesto a aprender y crecer. Ya sea explorando nuevos frameworks o mejorando mis habilidades de diseño, estoy comprometido con el avance constante.
-<br />
+<br/>
 
 - 🌱 &nbsp; Actualmente estudio Ingeniería en Sistemas Informáticos<br>
   en la Universidad Católica de El Salvador (Unicaes). 
